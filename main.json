@@ -1,0 +1,52 @@
+{
+	"profile":{
+		"img":"images.jpg",
+		"name":"Revathi",
+		"Rollno":"16NN1A1255",
+		"Institute":"Vignans Nirula Institute of Technology",
+		"Place":"Guntur"
+	},
+	"Career":{"info":"I want to excel in this field with hard work, perseverance and dedication"},
+	"Education":[
+		{
+			"Degree":"b.tech",
+			"Institute":"Vignans Nirula",
+			"Year of Passing":"2020"
+		},
+		{
+			"Degree":"Intermediate",
+			"Institute":"Sri Chaitanya",
+			"Year of Passing":"2016"
+		},
+		{
+			"Degree":"ssc",
+			"Institute":"Bhashyam",
+			"Year of Passing":"2014"
+		}
+	],
+	"Languages":[
+		{
+			"lang":"Telugu"
+		},
+		{
+			"lang":"English"
+		},
+		{
+			"lang":"Hindi"
+		}
+	],
+	"Skills":[
+		{
+			"title":"platforms",
+			"content":"windows,linux"
+		},
+		{
+			"title":"programming language",
+			"content":"c,c++,java"
+		},
+		{
+			"title":"databases",
+			"content":"mysql"
+		}
+	]
+}
